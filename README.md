@@ -5,7 +5,7 @@ Thesis template Department of Electrical and Computer Engineering, University of
 
 ## Contents
 * /Coverpage: the cover page print template (empty cover page papers are available in the Dean's Office).
-* /Guidelines: regulations for writing scientific theses
+* /Guidelines: regulations for writing scientific theses (can also be used as a template for your thesis)
 
 
 ## Know Dependencies
