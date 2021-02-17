@@ -10,7 +10,7 @@ Thesis template Department of Electrical and Computer Engineering, University of
 
 ## Know Dependencies
 Please install the PT Sans font:
-http://www.uni-kl.de/universitaet/pr-marketing/marketing/cd-und-vorlagen/schriftarten-pt-sans/
+https://www.uni-kl.de/pr-marketing/marketing/corporate-design-und-vorlagen/schriftarten-pt-sans/
 
 
 ## Contributors
