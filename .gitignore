@@ -9,11 +9,15 @@
 *.aux
 *.bbl
 *.blg
+*.fdb_latexmk
+*.fls
 *.glg
 *.glo
 *.gls
 *.ist
+*.lof
 *.log
+*.lot
 *.out
 *.symi
 *.symlog
@@ -23,6 +27,7 @@
 *.synctex.gz(busy)
 *.tcp
 *.tex#
+*.toc
 *.tps
 *.tmp
 __pycache__
