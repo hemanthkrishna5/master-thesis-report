@@ -1,11 +1,22 @@
-thesis-eit
+thesis-eit-latex
 ===
 
-Thesis template Department of Electrical and Computer Engineering, RPTU Kaiserslautern-Landau
+LaTeX thesis template Department of Electrical and Computer Engineering, RPTU Kaiserslautern-Landau
 
-## Contents
-* /Coverpage: the cover page print template (empty cover page papers are available in the Dean's Office).
-* /Guidelines: regulations for writing scientific theses (can also be used as a template for your thesis)
+## How to use
+This LaTeX report template can be used easily with any TeX distribution by running ```make``` or with any LaTeX IDE. Just start with the file ```main.tex``` and go ahead with your changes. Everything is documented in the file itself.
+
+*Important*: This repository depends on a Git submodule that holds the style definition. Therefore, a regular ```git clone``` command is not sufficient to obain the submodule as well! Please use ```git clone --recursive``` instead.
+
+
+## Build
+Use your favorite LaTeX IDE / editor or optionally open a terminal and use make.
+
+
+## Known Dependencies
+* texlive-science
+* texlive-fonts-extra
+* Git submodule style-eit-latex
 
 
 ## Contributors
