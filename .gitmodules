@@ -1,3 +1,3 @@
-[submodule "LaTeX/style-eit-latex"]
-	path = LaTeX/style-eit-latex
-	url = git@gitlab.rhrk.uni-kl.de:EIT/Dekanat/PR/Templates/style-eit-latex.git
+[submodule "style-eit-latex"]
+	path = style-eit-latex
+	url = https://gitlab.rhrk.uni-kl.de/EIT/Dekanat/PR/Templates/style-eit-latex.git
